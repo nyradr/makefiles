@@ -1,0 +1,5 @@
+Some generics makefile
+
+C makefile:
+  Build all .c files in SRC directory and create the program in bin directory
+  All the .c files are automatically list.
